@@ -1,0 +1,13 @@
+torch
+youtube-transcript-api
+Flask
+groq
+langchain
+langchain-core
+langchain-groq
+langchain-text-splitters
+langsmith
+python-dotenv
+numpy
+transformers 
+torch
